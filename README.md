@@ -1,3 +1,5 @@
+**HOSTED AT: https://brown-freddi-29.tiiny.site**
+
 ABSTRACT:
 The core idea is to create a platform for people to search for medicines availabe in the nearby medical stores. This may not seem to be useful in metopolitan cities
 where platforms like NETMEDS provide direct delivery but this can be useful in cities where such sservices are not available. This also shows the quantity of medicines
