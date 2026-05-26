@@ -8,9 +8,9 @@ website and also be accessible to citizens.
 
 Use the following emails to sign in as this is our first hackathon project we do not have a proper set up to store credentials. Anything is fine for password....
 Emails:
-1.yourname@example.com
-2.teammate@example.com
-3.testuser@example.com
+1. yourname@example.com
+2. teammate@example.com
+3. testuser@example.com
 
 
 THE LIST OF STORES:
